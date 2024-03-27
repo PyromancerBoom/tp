@@ -106,11 +106,11 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "contactswift-user-guide": "ContactSwift User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
-        "adding-a-employee-add": "Adding a employee: add",
+        "adding-an-employee-add": "Adding an employee: add",
         "listing-all-employees-list": "Listing all employees : list",
         "editing-a-employee-edit": "Editing a employee : edit",
         "locating-employees-by-name-find": "Locating employees by name: find",
