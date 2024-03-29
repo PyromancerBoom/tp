@@ -52,6 +52,8 @@
         "implementation": "Implementation",
         "filter-command-implementation": "Filter Command Implementation",
         "show-all-command-implementation": "Show All Command Implementation",
+        "delete-by-name-command-implementation": "Delete by Name Command Implementation",
+        "delete-by-uid-command-implementation": "Delete by UID Command Implementation",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
