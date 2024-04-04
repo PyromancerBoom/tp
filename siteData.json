@@ -52,7 +52,6 @@
         "implementation": "Implementation",
         "unique-identifier-uid-implementation": "Unique Identifier (UID) Implementation",
         "filter-command-implementation": "Filter Command Implementation",
-        "show-all-command-implementation": "Show All Command Implementation",
         "delete-by-name-command-implementation": "Delete by Name Command Implementation",
         "delete-by-uid-command-implementation": "Delete by UID Command Implementation",
         "add-command-implementation": "Add Command Implementation",
@@ -117,6 +116,10 @@
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-an-employee-add": "Adding an employee: add",
+        "add-task-to-an-employee-s-task-list-addtask": "Add task to an employee's task list: addtask",
+        "mark-a-task-as-completed-mark": "Mark a task as completed: mark",
+        "unmark-a-task-as-completed-unmark": "Unmark a task as completed: unmark",
+        "filter-employees-by-name-tags-roles-or-teams-filter": "Filter employees by name, tags, roles, or teams: filter",
         "listing-all-employees-list": "Listing all employees : list",
         "editing-a-employee-edit": "Editing a employee : edit",
         "locating-employees-by-name-find": "Locating employees by name: find",
@@ -136,7 +139,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "contactswift": "ContactSwift"
       },
       "headingKeywords": {}
     },
