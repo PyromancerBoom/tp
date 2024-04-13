@@ -50,11 +50,16 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "add-command-implementation": "Add Command Implementation",
         "unique-identifier-uid-implementation": "Unique Identifier (UID) Implementation",
-        "filter-command-implementation": "Filter Command Implementation",
         "delete-by-name-command-implementation": "Delete by Name Command Implementation",
         "delete-by-uid-command-implementation": "Delete by UID Command Implementation",
-        "add-command-implementation": "Add Command Implementation",
+        "filter-command-implementation": "Filter Command Implementation",
+        "tasklist-feature": "TaskList Feature",
+        "add-task-feature-implementation": "Add Task Feature Implementation",
+        "delete-task-feature-implementation": "Delete Task Feature Implementation",
+        "mark-task-feature-implementation": "Mark Task Feature Implementation",
+        "unmark-task-feature-implementation": "Unmark Task Feature Implementation",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -139,7 +144,8 @@
         "glossary": "Glossary",
         "cli-command-line-interface": "CLI (Command Line Interface)",
         "gui-graphical-user-interface": "GUI (Graphical User Interface)",
-        "unique-identifier-uid": "Unique Identifier (UID)"
+        "unique-identifier-uid": "Unique Identifier (UID)",
+        "alphanumeric-characters": "Alphanumeric characters"
       },
       "headingKeywords": {}
     },
