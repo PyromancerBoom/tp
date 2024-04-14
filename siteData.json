@@ -75,7 +75,8 @@
         "use-cases": "Use cases",
         "non-functional-requirements": "Non-Functional Requirements",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
-        "launch-and-shutdown": "Launch and shutdown",
+        "launch-and-shutdown": "Launch and Shutdown",
+        "launch-and-shutdown-2": "Launch and shutdown",
         "deleting-an-employee": "Deleting an employee",
         "saving-data": "Saving data",
         "glossary": "Glossary"
