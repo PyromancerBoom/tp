@@ -11,5 +11,8 @@ Employee *--> "1" Address
 Employee *--> "1" Team
 Employee *--> "1" Role
 Employee *--> "*" Tag
+Employee *--> "1" UniqueId
+Employee *--> "1" TaskList
+TaskList "1" *--> "*" Task
 
 @enduml

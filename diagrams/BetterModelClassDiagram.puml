@@ -20,4 +20,6 @@ Employee *--> Email
 Employee *--> Address
 Employee *--> Team
 Employee *--> Role
+Employee *--> "1" UniqueId
+Employee *--> "*" Task
 @enduml
