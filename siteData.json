@@ -76,9 +76,13 @@
         "non-functional-requirements": "Non-Functional Requirements",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and Shutdown",
-        "launch-and-shutdown-2": "Launch and shutdown",
-        "deleting-an-employee-2": "Deleting an employee",
-        "saving-data": "Saving data",
+        "adding-an-employee": "Adding an Employee",
+        "editing-an-employee": "Editing an Employee",
+        "deleting-an-employee": "Deleting an Employee",
+        "using-the-filter-command": "Using the Filter Command",
+        "assigning-tasks-to-employees": "Assigning Tasks to Employees",
+        "marking-and-unmarking-tasks": "Marking and Unmarking Tasks",
+        "data-persistence": "Data Persistence",
         "glossary": "Glossary"
       },
       "headingKeywords": {}
