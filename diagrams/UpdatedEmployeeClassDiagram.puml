@@ -1,0 +1,15 @@
+@startuml
+!include style.puml
+skinparam arrowThickness 1.1
+skinparam arrowColor MODEL_COLOR
+skinparam classBackgroundColor MODEL_COLOR
+
+Employee *--> "1" Name
+Employee *--> "1" Phone
+Employee *--> "1" Email
+Employee *--> "1" Address
+Employee *--> "1" Team
+Employee *--> "1" Role
+Employee *--> "*" Tag
+
+@enduml
