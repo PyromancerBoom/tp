@@ -37,166 +37,62 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
-      "headings": {
-        "contactswift-developer-guide": "ContactSwift Developer Guide",
-        "acknowledgements": "Acknowledgements",
-        "setting-up-getting-started": "Setting up, getting started",
-        "design": "Design",
-        "architecture": "Architecture",
-        "ui-component": "UI component",
-        "logic-component": "Logic component",
-        "model-component": "Model component",
-        "storage-component": "Storage component",
-        "common-classes": "Common classes",
-        "implementation": "Implementation",
-        "add-command-implementation": "Add Command Implementation",
-        "unique-identifier-uid-implementation": "Unique Identifier (UID) Implementation",
-        "delete-by-name-command-implementation": "Delete by Name Command Implementation",
-        "delete-by-uid-command-implementation": "Delete by UID Command Implementation",
-        "filter-command-implementation": "Filter Command Implementation",
-        "tasklist-feature": "TaskList Feature",
-        "add-task-feature-implementation": "Add Task Feature Implementation",
-        "delete-task-feature-implementation": "Delete Task Feature Implementation",
-        "mark-task-feature-implementation": "Mark Task Feature Implementation",
-        "unmark-task-feature-implementation": "Unmark Task Feature Implementation",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
-        "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
-        "appendix-requirements": "Appendix: Requirements",
-        "product-scope": "Product scope",
-        "user-stories": "User stories",
-        "use-cases": "Use cases",
-        "non-functional-requirements": "Non-Functional Requirements",
-        "glossary": "Glossary",
-        "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
-        "launch-and-shutdown": "Launch and shutdown",
-        "deleting-an-employee": "Deleting an employee",
-        "saving-data": "Saving data"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "Documentation.md",
-      "title": "Documentation guide",
-      "headings": {
-        "documentation-guide": "Documentation Guide"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "Logging.md",
-      "title": "Logging guide",
-      "headings": {
-        "logging-guide": "Logging guide"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "SettingUp.md",
-      "title": "Setting up and getting started",
-      "headings": {
-        "setting-up-and-getting-started": "Setting up and getting started",
-        "setting-up-the-project-in-your-computer": "Setting up the project in your computer",
-        "before-writing-code": "Before writing code"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "Testing.md",
-      "title": "Testing guide",
-      "headings": {
-        "testing-guide": "Testing guide",
-        "running-tests": "Running tests",
-        "types-of-tests": "Types of tests"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
-      "headings": {
-        "contactswift-user-guide": "ContactSwift User Guide",
-        "how-to-use-this-guide": "How to Use This Guide",
-        "table-of-contents": "Table of Contents",
-        "quick-start": "Quick Start",
-        "features": "Features",
-        "viewing-help-help": "Viewing help : help",
-        "adding-an-employee-add": "Adding an employee: add",
-        "locating-employees-by-name-find": "Locating employees by name: find",
-        "important-note-before-using-task-related-commands": "Important Note Before Using Task-Related Commands",
-        "add-task-to-an-employee-s-task-list-addtask": "Add task to an employee's task list: addTask",
-        "mark-a-task-as-completed-mark": "Mark a task as completed: mark",
-        "unmark-a-task-as-completed-unmark": "Unmark a task as completed: unmark",
-        "delete-a-task-from-an-employee-s-task-list-deletetask": "Delete a task from an employee's task list: deleteTask",
-        "filter-employees-by-name-tags-roles-or-teams-filter": "Filter employees by name, tags, roles, or teams: filter",
-        "listing-all-employees-list": "Listing all employees : list",
-        "editing-an-employee-edit": "Editing an employee : edit",
-        "deleting-an-employee-delete": "Deleting an employee : delete",
-        "clearing-all-entries-clear": "Clearing all entries : clear",
-        "exiting-the-program-exit": "Exiting the program : exit",
-        "saving-the-data": "Saving the Data",
-        "managing-your-employees": "Managing your employees",
-        "track-your-team-s-productivity": "Track your team's productivity!",
-        "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
-        "faq": "FAQ",
-        "known-issues": "Known issues",
-        "command-summary": "Command summary",
-        "glossary": "Glossary",
-        "cli-command-line-interface": "CLI (Command Line Interface)",
-        "gui-graphical-user-interface": "GUI (Graphical User Interface)",
-        "ui-user-interface": "UI (User Interface)",
-        "unique-identifier-uid": "Unique Identifier (UID)",
-        "alphanumeric-characters": "Alphanumeric characters"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "index.md",
-      "title": "",
-      "headings": {
-        "contactswift": "ContactSwift"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "team/hjungwoo01.md",
-      "title": "Jay Hong's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "team/pyromancerboom.md",
-      "title": "Priyansh Bimbisariye's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "team/quelinxiao.md",
-      "title": "Que Linxiao's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
       "src": "team/shayaansultan.md",
-      "title": "Shayaan Sultan's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
-      },
+      "headings": {},
       "headingKeywords": {}
     },
     {
