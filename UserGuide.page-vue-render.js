@@ -317,28 +317,28 @@ with(this){return _c('p',[_c('strong',[_v("Q1: How do I install Java 11?")]),_c(
 with(this){return _c('p',[_c('strong',[_v("Q2: How can I transfer my ContactSwift data to another computer?")]),_c('br'),_v(" "),_c('strong',[_v("A2:")]),_v(" Install ContactSwift on the other computer and overwrite the empty data file it creates with the file that contains the data of your previous ContactSwift home folder.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q3: How do I change the data file that ContactSwift uses?")]),_v(" "),_c('strong',[_v("A3:")]),_v(" ContactSwift uses the file "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("data/addressbook.json")]),_v(" in the home folder by default. You can modify the data inside that file or replace it with another file of the same name.")])}
+with(this){return _c('p',[_c('strong',[_v("Q3: How do I change the data file that ContactSwift uses?")]),_c('br'),_v(" "),_c('strong',[_v("A3:")]),_v(" ContactSwift uses the file "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("data/addressbook.json")]),_v(" in the home folder by default. You can modify the data inside that file or replace it with another file of the same name.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q4: If I modify the data how do I know it won't run into errors?")]),_v(" "),_c('strong',[_v("A4:")]),_v(" ContactSwift can run into unexpected errors if the data file is modified incorrectly. It is recommended to back up the data file before making any changes. However, the command line will log an error message if the data file is corrupted and provide feedback on what went wrong. Depending on the error, the software may start with an empty data file or a template file.")])}
+with(this){return _c('p',[_c('strong',[_v("Q4: If I modify the data how do I know it won't run into errors?")]),_c('br'),_v(" "),_c('strong',[_v("A4:")]),_v(" ContactSwift can run into unexpected errors if the data file is modified incorrectly. It is recommended to back up the data file before making any changes. However, the command line will log an error message if the data file is corrupted and provide feedback on what went wrong. Depending on the error, the software may start with an empty data file or a template file.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q5: What happens if I run commands with corrupted data ?")]),_v(" "),_c('strong',[_v("A5:")]),_v(" ContactSwift will overwrite the corrupted data file with a new one and start with an empty address book.")])}
+with(this){return _c('p',[_c('strong',[_v("Q5: What happens if I run commands with corrupted data ?")]),_c('br'),_v(" "),_c('strong',[_v("A5:")]),_v(" ContactSwift will overwrite the corrupted data file with a new one and start with an empty address book.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q6: How can I print the contact details or task list?")]),_v(" "),_c('strong',[_v("A6:")]),_v(" Currently, ContactSwift does not support direct printing. However, you can the JSON file to some other format (like CSV) and print it.")])}
+with(this){return _c('p',[_c('strong',[_v("Q6: How can I print the contact details or task list?")]),_c('br'),_v(" "),_c('strong',[_v("A6:")]),_v(" Currently, ContactSwift does not support direct printing. However, you can the JSON file to some other format (like CSV) and print it.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q7: What are the limits on the number of contacts or tasks I can add?")]),_v(" "),_c('strong',[_v("A7:")]),_v(" ContactSwift does not have a hard limit on the number of contacts or tasks you can add. However, the performance may degrade with a large number of contacts or tasks. For all practical purposes however the application should be able to handle a few thousand contacts and tasks.")])}
+with(this){return _c('p',[_c('strong',[_v("Q7: What are the limits on the number of contacts or tasks I can add?")]),_c('br'),_v(" "),_c('strong',[_v("A7:")]),_v(" ContactSwift does not have a hard limit on the number of contacts or tasks you can add. However, the performance may degrade with a large number of contacts or tasks. For all practical purposes however the application should be able to handle a few thousand contacts and tasks.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q9: Can I customize the fields for each contact or task in ContactSwift?")]),_v(" "),_c('strong',[_v("A9:")]),_v(" ContactSwift does not support custom fields for contacts or tasks. However, you can use the tags field to add additional information.")])}
+with(this){return _c('p',[_c('strong',[_v("Q9: Can I customize the fields for each contact or task in ContactSwift?")]),_c('br'),_v(" "),_c('strong',[_v("A9:")]),_v(" ContactSwift does not support custom fields for contacts or tasks. However, you can use the tags field to add additional information.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q10: How do I report a bug or issue with ContactSwift?")]),_v(" "),_c('strong',[_v("A10:")]),_v(" Please refer to the "),_c('a',{attrs:{"href":"#feedback"}},[_v("Feedback and Support")]),_v(" section for information on how to report bugs or issues.")])}
+with(this){return _c('p',[_c('strong',[_v("Q10: How do I report a bug or issue with ContactSwift?")]),_c('br'),_v(" "),_c('strong',[_v("A10:")]),_v(" Please refer to the "),_c('a',{attrs:{"href":"#feedback"}},[_v("Feedback and Support")]),_v(" section for information on how to report bugs or issues.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Q11: How do I request a new feature for ContactSwift?")]),_v(" "),_c('strong',[_v("A11:")]),_v(" Please refer to the "),_c('a',{attrs:{"href":"#feedback"}},[_v("Feedback and Support")]),_v(" section for information on how to request new features.")])}
+with(this){return _c('p',[_c('strong',[_v("Q11: How do I request a new feature for ContactSwift?")]),_c('br'),_v(" "),_c('strong',[_v("A11:")]),_v(" Please refer to the "),_c('a',{attrs:{"href":"#feedback"}},[_v("Feedback and Support")]),_v(" section for information on how to request new features.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to table of contents")])])}
@@ -413,6 +413,6 @@ with(this){return _c('h3',{attrs:{"id":"alphanumeric-characters"}},[_v("Alphanum
 with(this){return _c('p',[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("Back to table of contents")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Sun, 14 Apr 2024, 23:44:27 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Sun, 14 Apr 2024, 23:48:38 GMT+8]")])])])}
 }];
   
