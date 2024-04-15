@@ -147,9 +147,9 @@
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the Data",
+        "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
         "managing-your-employees": "Managing your employees",
         "track-your-team-s-productivity": "Track your team's productivity!",
-        "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary",
@@ -162,7 +162,8 @@
         "cli-command-line-interface": "CLI (Command Line Interface)",
         "gui-graphical-user-interface": "GUI (Graphical User Interface)",
         "ui-user-interface": "UI (User Interface)",
-        "unique-identifier-uid": "Unique Identifier (UID)"
+        "unique-identifier-uid": "Unique Identifier (UID)",
+        "completition-rate-statistics": "Completition Rate Statistics"
       },
       "headingKeywords": {}
     },
