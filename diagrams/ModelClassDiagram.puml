@@ -21,6 +21,7 @@ Class Phone
 Class Role
 Class Team
 Class Tag
+Class TaskList
 Class Task
 Class UniqueId
 
@@ -48,8 +49,9 @@ Employee *--> "1" Address
 Employee *--> Role
 Employee *--> Team
 Employee *--> "*" Tag
-Employee *--> "*" Task
+Employee *--> "1" TaskList
 Employee *--> "1" UniqueId
+TaskList *--> "*" Task
 
 Employee -[hidden]up--> I
 UniqueEmployeeList -[hidden]right-> I
